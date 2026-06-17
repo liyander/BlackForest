@@ -1,0 +1,428 @@
+0x10000000 pid=640   region=heap    C:\Program Files\Microsoft Office\root\Office16\OUTLOOK.EXE
+0x10000130 pid=5100  region=private https://graph.microsoft.com/v1.0/me/messages
+0x10000260 pid=4824  region=mapped  win-health-update.example
+0x10000390 pid=2204  region=stack   C:\Windows\System32\svchost.exe
+0x100004c0 pid=1332  region=heap    Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+0x100005f0 pid=884   region=private flag_candidate=pwndora{volatile_false_positive}
+0x10000720 pid=640   region=mapped  WriteFile
+0x10000850 pid=5100  region=stack   Global\CLR_PerfMon_v4.0.30319_32
+0x10000980 pid=4824  region=heap    https://settings-win.data.microsoft.com/settings/v3.0
+0x10000ab0 pid=2204  region=private api-health-telemetry.example
+0x10000be0 pid=1332  region=mapped  C:\Windows\System32\RuntimeBroker.exe
+0x10000d10 pid=884   region=stack   Microsoft\Windows\UpdateOrchestrator\Schedule Scan
+0x10000e40 pid=640   region=heap    BF-LOCAL-ONLY
+0x10000f70 pid=5100  region=private CloseHandle
+0x100010a0 pid=4824  region=mapped  Global\SessionEnvReadyEvent
+0x100011d0 pid=2204  region=stack   Mozilla/5.0 Chrome/126.0
+0x10001300 pid=1332  region=heap    CryptUnprotectData
+0x10001430 pid=884   region=private C:\Program Files\Microsoft OneDrive\OneDrive.exe
+0x10001560 pid=640   region=mapped  Microsoft\Windows\Windows Defender\Cache Maintenance
+0x10001690 pid=5100  region=stack   FrostCache.tmp
+0x100017c0 pid=4824  region=heap    GetTickCount64
+0x100018f0 pid=2204  region=private Local\FontCachePort
+0x10001a20 pid=1332  region=mapped  Windows-Update-Agent/10.0
+0x10001b50 pid=884   region=stack   CreateFileW
+0x10001c80 pid=640   region=heap    C:\Program Files\Google\Chrome\Application\chrome.exe
+0x10001db0 pid=5100  region=private https://login.microsoftonline.com/common/oauth2/v2.0/token
+0x10001ee0 pid=4824  region=mapped  frosted-cdn.example
+0x10002010 pid=2204  region=stack   QueryPerformanceCounter
+0x10002140 pid=1332  region=heap    Software\Microsoft\Windows\CurrentVersion\Run
+0x10002270 pid=884   region=private pwndora{memory_dump_decoy_not_final}
+0x100023a0 pid=640   region=mapped  ReadFile
+0x100024d0 pid=5100  region=stack   C:\Program Files\Microsoft Office\root\Office16\OUTLOOK.EXE
+0x10002600 pid=4824  region=heap    https://graph.microsoft.com/v1.0/me/messages
+0x10002730 pid=2204  region=private win-health-update.example
+0x10002860 pid=1332  region=mapped  C:\Windows\System32\svchost.exe
+0x10002990 pid=884   region=stack   Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+0x10002ac0 pid=640   region=heap    flag_candidate=pwndora{volatile_false_positive}
+0x10002bf0 pid=5100  region=private WriteFile
+0x10002d20 pid=4824  region=mapped  Global\CLR_PerfMon_v4.0.30319_32
+0x10002e50 pid=2204  region=stack   https://settings-win.data.microsoft.com/settings/v3.0
+0x10002f80 pid=1332  region=heap    api-health-telemetry.example
+0x100030b0 pid=884   region=private C:\Windows\System32\RuntimeBroker.exe
+0x100031e0 pid=640   region=mapped  Microsoft\Windows\UpdateOrchestrator\Schedule Scan
+0x10003310 pid=5100  region=stack   BF-LOCAL-ONLY
+0x10003440 pid=4824  region=heap    CloseHandle
+0x10003570 pid=2204  region=private Global\SessionEnvReadyEvent
+0x100036a0 pid=1332  region=mapped  Mozilla/5.0 Chrome/126.0
+0x100037d0 pid=884   region=stack   CryptUnprotectData
+0x10003900 pid=640   region=heap    C:\Program Files\Microsoft OneDrive\OneDrive.exe
+0x10003a30 pid=5100  region=private Microsoft\Windows\Windows Defender\Cache Maintenance
+0x10003b60 pid=4824  region=mapped  FrostCache.tmp
+0x10003c90 pid=2204  region=stack   GetTickCount64
+0x10003dc0 pid=1332  region=heap    Local\FontCachePort
+0x10003ef0 pid=884   region=private Windows-Update-Agent/10.0
+0x10004020 pid=640   region=mapped  CreateFileW
+0x10004150 pid=5100  region=stack   C:\Program Files\Google\Chrome\Application\chrome.exe
+0x10004280 pid=4824  region=heap    https://login.microsoftonline.com/common/oauth2/v2.0/token
+0x100043b0 pid=2204  region=private frosted-cdn.example
+0x1004bf10 pid=4824  region=mapped  BLACKFROST_CFG_B64 appears in mapped .rdata
+0x100044e0 pid=1332  region=mapped  QueryPerformanceCounter
+0x10004610 pid=884   region=stack   Software\Microsoft\Windows\CurrentVersion\Run
+0x10004740 pid=640   region=heap    pwndora{memory_dump_decoy_not_final}
+0x10004870 pid=5100  region=private ReadFile
+0x100049a0 pid=4824  region=mapped  C:\Program Files\Microsoft Office\root\Office16\OUTLOOK.EXE
+0x10004ad0 pid=2204  region=stack   https://graph.microsoft.com/v1.0/me/messages
+0x10004c00 pid=1332  region=heap    win-health-update.example
+0x10004d30 pid=884   region=private C:\Windows\System32\svchost.exe
+0x10004e60 pid=640   region=mapped  Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+0x10004f90 pid=5100  region=stack   flag_candidate=pwndora{volatile_false_positive}
+0x100050c0 pid=4824  region=heap    WriteFile
+0x100051f0 pid=2204  region=private Global\CLR_PerfMon_v4.0.30319_32
+0x10005320 pid=1332  region=mapped  https://settings-win.data.microsoft.com/settings/v3.0
+0x10005450 pid=884   region=stack   api-health-telemetry.example
+0x10005580 pid=640   region=heap    C:\Windows\System32\RuntimeBroker.exe
+0x100056b0 pid=5100  region=private Microsoft\Windows\UpdateOrchestrator\Schedule Scan
+0x100057e0 pid=4824  region=mapped  BF-LOCAL-ONLY
+0x10005910 pid=2204  region=stack   CloseHandle
+0x10005a40 pid=1332  region=heap    Global\SessionEnvReadyEvent
+0x10005b70 pid=884   region=private Mozilla/5.0 Chrome/126.0
+0x10005ca0 pid=640   region=mapped  CryptUnprotectData
+0x10005dd0 pid=5100  region=stack   C:\Program Files\Microsoft OneDrive\OneDrive.exe
+0x10005f00 pid=4824  region=heap    Microsoft\Windows\Windows Defender\Cache Maintenance
+0x10006030 pid=2204  region=private FrostCache.tmp
+0x10006160 pid=1332  region=mapped  GetTickCount64
+0x10006290 pid=884   region=stack   Local\FontCachePort
+0x100063c0 pid=640   region=heap    Windows-Update-Agent/10.0
+0x100064f0 pid=5100  region=private CreateFileW
+0x10006620 pid=4824  region=mapped  C:\Program Files\Google\Chrome\Application\chrome.exe
+0x10006750 pid=2204  region=stack   https://login.microsoftonline.com/common/oauth2/v2.0/token
+0x10006880 pid=1332  region=heap    frosted-cdn.example
+0x100069b0 pid=884   region=private QueryPerformanceCounter
+0x10006ae0 pid=640   region=mapped  Software\Microsoft\Windows\CurrentVersion\Run
+0x10006c10 pid=5100  region=stack   pwndora{memory_dump_decoy_not_final}
+0x10006d40 pid=4824  region=heap    ReadFile
+0x10006e70 pid=2204  region=private C:\Program Files\Microsoft Office\root\Office16\OUTLOOK.EXE
+0x10006fa0 pid=1332  region=mapped  https://graph.microsoft.com/v1.0/me/messages
+0x100070d0 pid=884   region=stack   win-health-update.example
+0x10007200 pid=640   region=heap    C:\Windows\System32\svchost.exe
+0x10007330 pid=5100  region=private Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+0x10007460 pid=4824  region=mapped  flag_candidate=pwndora{volatile_false_positive}
+0x10007590 pid=2204  region=stack   WriteFile
+0x100076c0 pid=1332  region=heap    Global\CLR_PerfMon_v4.0.30319_32
+0x100077f0 pid=884   region=private https://settings-win.data.microsoft.com/settings/v3.0
+0x10007920 pid=640   region=mapped  api-health-telemetry.example
+0x10007a50 pid=5100  region=stack   C:\Windows\System32\RuntimeBroker.exe
+0x10007b80 pid=4824  region=heap    Microsoft\Windows\UpdateOrchestrator\Schedule Scan
+0x10007cb0 pid=2204  region=private BF-LOCAL-ONLY
+0x10007de0 pid=1332  region=mapped  CloseHandle
+0x10007f10 pid=884   region=stack   Global\SessionEnvReadyEvent
+0x10008040 pid=640   region=heap    Mozilla/5.0 Chrome/126.0
+0x10008170 pid=5100  region=private CryptUnprotectData
+0x100082a0 pid=4824  region=mapped  C:\Program Files\Microsoft OneDrive\OneDrive.exe
+0x100083d0 pid=2204  region=stack   Microsoft\Windows\Windows Defender\Cache Maintenance
+0x10008500 pid=1332  region=heap    FrostCache.tmp
+0x10008630 pid=884   region=private GetTickCount64
+0x10008760 pid=640   region=mapped  Local\FontCachePort
+0x10008890 pid=5100  region=stack   Windows-Update-Agent/10.0
+0x100089c0 pid=4824  region=heap    CreateFileW
+0x10008af0 pid=2204  region=private C:\Program Files\Google\Chrome\Application\chrome.exe
+0x1004c020 pid=4824  region=heap    Global\BFROST-6E7A-PESTUDIO
+0x10008c20 pid=1332  region=mapped  https://login.microsoftonline.com/common/oauth2/v2.0/token
+0x10008d50 pid=884   region=stack   frosted-cdn.example
+0x10008e80 pid=640   region=heap    QueryPerformanceCounter
+0x10008fb0 pid=5100  region=private Software\Microsoft\Windows\CurrentVersion\Run
+0x100090e0 pid=4824  region=mapped  pwndora{memory_dump_decoy_not_final}
+0x10009210 pid=2204  region=stack   ReadFile
+0x10009340 pid=1332  region=heap    C:\Program Files\Microsoft Office\root\Office16\OUTLOOK.EXE
+0x10009470 pid=884   region=private https://graph.microsoft.com/v1.0/me/messages
+0x100095a0 pid=640   region=mapped  win-health-update.example
+0x100096d0 pid=5100  region=stack   C:\Windows\System32\svchost.exe
+0x10009800 pid=4824  region=heap    Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+0x10009930 pid=2204  region=private flag_candidate=pwndora{volatile_false_positive}
+0x10009a60 pid=1332  region=mapped  WriteFile
+0x10009b90 pid=884   region=stack   Global\CLR_PerfMon_v4.0.30319_32
+0x10009cc0 pid=640   region=heap    https://settings-win.data.microsoft.com/settings/v3.0
+0x10009df0 pid=5100  region=private api-health-telemetry.example
+0x10009f20 pid=4824  region=mapped  C:\Windows\System32\RuntimeBroker.exe
+0x1000a050 pid=2204  region=stack   Microsoft\Windows\UpdateOrchestrator\Schedule Scan
+0x1000a180 pid=1332  region=heap    BF-LOCAL-ONLY
+0x1000a2b0 pid=884   region=private CloseHandle
+0x1000a3e0 pid=640   region=mapped  Global\SessionEnvReadyEvent
+0x1000a510 pid=5100  region=stack   Mozilla/5.0 Chrome/126.0
+0x1000a640 pid=4824  region=heap    CryptUnprotectData
+0x1000a770 pid=2204  region=private C:\Program Files\Microsoft OneDrive\OneDrive.exe
+0x1000a8a0 pid=1332  region=mapped  Microsoft\Windows\Windows Defender\Cache Maintenance
+0x1000a9d0 pid=884   region=stack   FrostCache.tmp
+0x1000ab00 pid=640   region=heap    GetTickCount64
+0x1000ac30 pid=5100  region=private Local\FontCachePort
+0x1000ad60 pid=4824  region=mapped  Windows-Update-Agent/10.0
+0x1000ae90 pid=2204  region=stack   CreateFileW
+0x1000afc0 pid=1332  region=heap    C:\Program Files\Google\Chrome\Application\chrome.exe
+0x1000b0f0 pid=884   region=private https://login.microsoftonline.com/common/oauth2/v2.0/token
+0x1000b220 pid=640   region=mapped  frosted-cdn.example
+0x1000b350 pid=5100  region=stack   QueryPerformanceCounter
+0x1000b480 pid=4824  region=heap    Software\Microsoft\Windows\CurrentVersion\Run
+0x1000b5b0 pid=2204  region=private pwndora{memory_dump_decoy_not_final}
+0x1000b6e0 pid=1332  region=mapped  ReadFile
+0x1000b810 pid=884   region=stack   C:\Program Files\Microsoft Office\root\Office16\OUTLOOK.EXE
+0x1000b940 pid=640   region=heap    https://graph.microsoft.com/v1.0/me/messages
+0x1000ba70 pid=5100  region=private win-health-update.example
+0x1000bba0 pid=4824  region=mapped  C:\Windows\System32\svchost.exe
+0x1000bcd0 pid=2204  region=stack   Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+0x1000be00 pid=1332  region=heap    flag_candidate=pwndora{volatile_false_positive}
+0x1000bf30 pid=884   region=private WriteFile
+0x1000c060 pid=640   region=mapped  Global\CLR_PerfMon_v4.0.30319_32
+0x1000c190 pid=5100  region=stack   https://settings-win.data.microsoft.com/settings/v3.0
+0x1004c0d0 pid=4824  region=heap    Microsoft\Windows\FrostCache\UpdateTask
+0x1000c2c0 pid=4824  region=heap    api-health-telemetry.example
+0x1000c3f0 pid=2204  region=private C:\Windows\System32\RuntimeBroker.exe
+0x1000c520 pid=1332  region=mapped  Microsoft\Windows\UpdateOrchestrator\Schedule Scan
+0x1000c650 pid=884   region=stack   BF-LOCAL-ONLY
+0x1000c780 pid=640   region=heap    CloseHandle
+0x1000c8b0 pid=5100  region=private Global\SessionEnvReadyEvent
+0x1000c9e0 pid=4824  region=mapped  Mozilla/5.0 Chrome/126.0
+0x1000cb10 pid=2204  region=stack   CryptUnprotectData
+0x1000cc40 pid=1332  region=heap    C:\Program Files\Microsoft OneDrive\OneDrive.exe
+0x1000cd70 pid=884   region=private Microsoft\Windows\Windows Defender\Cache Maintenance
+0x1000cea0 pid=640   region=mapped  FrostCache.tmp
+0x1000cfd0 pid=5100  region=stack   GetTickCount64
+0x1000d100 pid=4824  region=heap    Local\FontCachePort
+0x1000d230 pid=2204  region=private Windows-Update-Agent/10.0
+0x1000d360 pid=1332  region=mapped  CreateFileW
+0x1000d490 pid=884   region=stack   C:\Program Files\Google\Chrome\Application\chrome.exe
+0x1000d5c0 pid=640   region=heap    https://login.microsoftonline.com/common/oauth2/v2.0/token
+0x1000d6f0 pid=5100  region=private frosted-cdn.example
+0x1000d820 pid=4824  region=mapped  QueryPerformanceCounter
+0x1000d950 pid=2204  region=stack   Software\Microsoft\Windows\CurrentVersion\Run
+0x1000da80 pid=1332  region=heap    pwndora{memory_dump_decoy_not_final}
+0x1000dbb0 pid=884   region=private ReadFile
+0x1000dce0 pid=640   region=mapped  C:\Program Files\Microsoft Office\root\Office16\OUTLOOK.EXE
+0x1000de10 pid=5100  region=stack   https://graph.microsoft.com/v1.0/me/messages
+0x1000df40 pid=4824  region=heap    win-health-update.example
+0x1000e070 pid=2204  region=private C:\Windows\System32\svchost.exe
+0x1000e1a0 pid=1332  region=mapped  Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+0x1000e2d0 pid=884   region=stack   flag_candidate=pwndora{volatile_false_positive}
+0x1000e400 pid=640   region=heap    WriteFile
+0x1000e530 pid=5100  region=private Global\CLR_PerfMon_v4.0.30319_32
+0x1000e660 pid=4824  region=mapped  https://settings-win.data.microsoft.com/settings/v3.0
+0x1000e790 pid=2204  region=stack   api-health-telemetry.example
+0x1000e8c0 pid=1332  region=heap    C:\Windows\System32\RuntimeBroker.exe
+0x1000e9f0 pid=884   region=private Microsoft\Windows\UpdateOrchestrator\Schedule Scan
+0x1000eb20 pid=640   region=mapped  BF-LOCAL-ONLY
+0x1000ec50 pid=5100  region=stack   CloseHandle
+0x1000ed80 pid=4824  region=heap    Global\SessionEnvReadyEvent
+0x1000eeb0 pid=2204  region=private Mozilla/5.0 Chrome/126.0
+0x1000efe0 pid=1332  region=mapped  CryptUnprotectData
+0x1000f110 pid=884   region=stack   C:\Program Files\Microsoft OneDrive\OneDrive.exe
+0x1000f240 pid=640   region=heap    Microsoft\Windows\Windows Defender\Cache Maintenance
+0x1000f370 pid=5100  region=private FrostCache.tmp
+0x1000f4a0 pid=4824  region=mapped  GetTickCount64
+0x1000f5d0 pid=2204  region=stack   Local\FontCachePort
+0x1000f700 pid=1332  region=heap    Windows-Update-Agent/10.0
+0x1000f830 pid=884   region=private CreateFileW
+0x1000f960 pid=640   region=mapped  C:\Program Files\Google\Chrome\Application\chrome.exe
+0x1004c190 pid=4824  region=private BFROST telemetry disabled in lab
+0x1000fa90 pid=5100  region=stack   https://login.microsoftonline.com/common/oauth2/v2.0/token
+0x1000fbc0 pid=4824  region=heap    frosted-cdn.example
+0x1000fcf0 pid=2204  region=private QueryPerformanceCounter
+0x1000fe20 pid=1332  region=mapped  Software\Microsoft\Windows\CurrentVersion\Run
+0x1000ff50 pid=884   region=stack   pwndora{memory_dump_decoy_not_final}
+0x10010080 pid=640   region=heap    ReadFile
+0x100101b0 pid=5100  region=private C:\Program Files\Microsoft Office\root\Office16\OUTLOOK.EXE
+0x100102e0 pid=4824  region=mapped  https://graph.microsoft.com/v1.0/me/messages
+0x10010410 pid=2204  region=stack   win-health-update.example
+0x10010540 pid=1332  region=heap    C:\Windows\System32\svchost.exe
+0x10010670 pid=884   region=private Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+0x100107a0 pid=640   region=mapped  flag_candidate=pwndora{volatile_false_positive}
+0x100108d0 pid=5100  region=stack   WriteFile
+0x10010a00 pid=4824  region=heap    Global\CLR_PerfMon_v4.0.30319_32
+0x10010b30 pid=2204  region=private https://settings-win.data.microsoft.com/settings/v3.0
+0x10010c60 pid=1332  region=mapped  api-health-telemetry.example
+0x10010d90 pid=884   region=stack   C:\Windows\System32\RuntimeBroker.exe
+0x10010ec0 pid=640   region=heap    Microsoft\Windows\UpdateOrchestrator\Schedule Scan
+0x10010ff0 pid=5100  region=private BF-LOCAL-ONLY
+0x10011120 pid=4824  region=mapped  CloseHandle
+0x10011250 pid=2204  region=stack   Global\SessionEnvReadyEvent
+0x10011380 pid=1332  region=heap    Mozilla/5.0 Chrome/126.0
+0x100114b0 pid=884   region=private CryptUnprotectData
+0x100115e0 pid=640   region=mapped  C:\Program Files\Microsoft OneDrive\OneDrive.exe
+0x10011710 pid=5100  region=stack   Microsoft\Windows\Windows Defender\Cache Maintenance
+0x10011840 pid=4824  region=heap    FrostCache.tmp
+0x10011970 pid=2204  region=private GetTickCount64
+0x10011aa0 pid=1332  region=mapped  Local\FontCachePort
+0x10011bd0 pid=884   region=stack   Windows-Update-Agent/10.0
+0x10011d00 pid=640   region=heap    CreateFileW
+0x10011e30 pid=5100  region=private C:\Program Files\Google\Chrome\Application\chrome.exe
+0x10011f60 pid=4824  region=mapped  https://login.microsoftonline.com/common/oauth2/v2.0/token
+0x10012090 pid=2204  region=stack   frosted-cdn.example
+0x100121c0 pid=1332  region=heap    QueryPerformanceCounter
+0x100122f0 pid=884   region=private Software\Microsoft\Windows\CurrentVersion\Run
+0x10012420 pid=640   region=mapped  pwndora{memory_dump_decoy_not_final}
+0x10012550 pid=5100  region=stack   ReadFile
+0x10012680 pid=4824  region=heap    C:\Program Files\Microsoft Office\root\Office16\OUTLOOK.EXE
+0x100127b0 pid=2204  region=private https://graph.microsoft.com/v1.0/me/messages
+0x100128e0 pid=1332  region=mapped  win-health-update.example
+0x10012a10 pid=884   region=stack   C:\Windows\System32\svchost.exe
+0x10012b40 pid=640   region=heap    Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+0x10012c70 pid=5100  region=private flag_candidate=pwndora{volatile_false_positive}
+0x10012da0 pid=4824  region=mapped  WriteFile
+0x10012ed0 pid=2204  region=stack   Global\CLR_PerfMon_v4.0.30319_32
+0x10013000 pid=1332  region=heap    https://settings-win.data.microsoft.com/settings/v3.0
+0x10013130 pid=884   region=private api-health-telemetry.example
+0x10013260 pid=640   region=mapped  C:\Windows\System32\RuntimeBroker.exe
+0x10013390 pid=5100  region=stack   Microsoft\Windows\UpdateOrchestrator\Schedule Scan
+0x100134c0 pid=4824  region=heap    BF-LOCAL-ONLY
+0x100135f0 pid=2204  region=private CloseHandle
+0x10013720 pid=1332  region=mapped  Global\SessionEnvReadyEvent
+0x10013850 pid=884   region=stack   Mozilla/5.0 Chrome/126.0
+0x10013980 pid=640   region=heap    CryptUnprotectData
+0x10013ab0 pid=5100  region=private C:\Program Files\Microsoft OneDrive\OneDrive.exe
+0x10013be0 pid=4824  region=mapped  Microsoft\Windows\Windows Defender\Cache Maintenance
+0x10013d10 pid=2204  region=stack   FrostCache.tmp
+0x10013e40 pid=1332  region=heap    GetTickCount64
+0x10013f70 pid=884   region=private Local\FontCachePort
+0x100140a0 pid=640   region=mapped  Windows-Update-Agent/10.0
+0x100141d0 pid=5100  region=stack   CreateFileW
+0x10014300 pid=4824  region=heap    C:\Program Files\Google\Chrome\Application\chrome.exe
+0x1004c250 pid=4824  region=private final layer requires xor key 0x37
+0x10014430 pid=2204  region=private https://login.microsoftonline.com/common/oauth2/v2.0/token
+0x10014560 pid=1332  region=mapped  frosted-cdn.example
+0x10014690 pid=884   region=stack   QueryPerformanceCounter
+0x100147c0 pid=640   region=heap    Software\Microsoft\Windows\CurrentVersion\Run
+0x100148f0 pid=5100  region=private pwndora{memory_dump_decoy_not_final}
+0x10014a20 pid=4824  region=mapped  ReadFile
+0x10014b50 pid=2204  region=stack   C:\Program Files\Microsoft Office\root\Office16\OUTLOOK.EXE
+0x10014c80 pid=1332  region=heap    https://graph.microsoft.com/v1.0/me/messages
+0x10014db0 pid=884   region=private win-health-update.example
+0x10014ee0 pid=640   region=mapped  C:\Windows\System32\svchost.exe
+0x10015010 pid=5100  region=stack   Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+0x10015140 pid=4824  region=heap    flag_candidate=pwndora{volatile_false_positive}
+0x10015270 pid=2204  region=private WriteFile
+0x100153a0 pid=1332  region=mapped  Global\CLR_PerfMon_v4.0.30319_32
+0x100154d0 pid=884   region=stack   https://settings-win.data.microsoft.com/settings/v3.0
+0x10015600 pid=640   region=heap    api-health-telemetry.example
+0x10015730 pid=5100  region=private C:\Windows\System32\RuntimeBroker.exe
+0x10015860 pid=4824  region=mapped  Microsoft\Windows\UpdateOrchestrator\Schedule Scan
+0x10015990 pid=2204  region=stack   BF-LOCAL-ONLY
+0x10015ac0 pid=1332  region=heap    CloseHandle
+0x10015bf0 pid=884   region=private Global\SessionEnvReadyEvent
+0x10015d20 pid=640   region=mapped  Mozilla/5.0 Chrome/126.0
+0x10015e50 pid=5100  region=stack   CryptUnprotectData
+0x10015f80 pid=4824  region=heap    C:\Program Files\Microsoft OneDrive\OneDrive.exe
+0x100160b0 pid=2204  region=private Microsoft\Windows\Windows Defender\Cache Maintenance
+0x100161e0 pid=1332  region=mapped  FrostCache.tmp
+0x10016310 pid=884   region=stack   GetTickCount64
+0x10016440 pid=640   region=heap    Local\FontCachePort
+0x10016570 pid=5100  region=private Windows-Update-Agent/10.0
+0x100166a0 pid=4824  region=mapped  CreateFileW
+0x100167d0 pid=2204  region=stack   C:\Program Files\Google\Chrome\Application\chrome.exe
+0x10016900 pid=1332  region=heap    https://login.microsoftonline.com/common/oauth2/v2.0/token
+0x10016a30 pid=884   region=private frosted-cdn.example
+0x10016b60 pid=640   region=mapped  QueryPerformanceCounter
+0x10016c90 pid=5100  region=stack   Software\Microsoft\Windows\CurrentVersion\Run
+0x1004c310 pid=4824  region=heap    Mozilla/5.0 BFrostUpdater/4.7
+0x10016dc0 pid=4824  region=heap    pwndora{memory_dump_decoy_not_final}
+0x10016ef0 pid=2204  region=private ReadFile
+0x10017020 pid=1332  region=mapped  C:\Program Files\Microsoft Office\root\Office16\OUTLOOK.EXE
+0x10017150 pid=884   region=stack   https://graph.microsoft.com/v1.0/me/messages
+0x10017280 pid=640   region=heap    win-health-update.example
+0x100173b0 pid=5100  region=private C:\Windows\System32\svchost.exe
+0x100174e0 pid=4824  region=mapped  Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+0x10017610 pid=2204  region=stack   flag_candidate=pwndora{volatile_false_positive}
+0x10017740 pid=1332  region=heap    WriteFile
+0x10017870 pid=884   region=private Global\CLR_PerfMon_v4.0.30319_32
+0x100179a0 pid=640   region=mapped  https://settings-win.data.microsoft.com/settings/v3.0
+0x10017ad0 pid=5100  region=stack   api-health-telemetry.example
+0x10017c00 pid=4824  region=heap    C:\Windows\System32\RuntimeBroker.exe
+0x10017d30 pid=2204  region=private Microsoft\Windows\UpdateOrchestrator\Schedule Scan
+0x10017e60 pid=1332  region=mapped  BF-LOCAL-ONLY
+0x10017f90 pid=884   region=stack   CloseHandle
+0x100180c0 pid=640   region=heap    Global\SessionEnvReadyEvent
+0x100181f0 pid=5100  region=private Mozilla/5.0 Chrome/126.0
+0x10018320 pid=4824  region=mapped  CryptUnprotectData
+0x10018450 pid=2204  region=stack   C:\Program Files\Microsoft OneDrive\OneDrive.exe
+0x10018580 pid=1332  region=heap    Microsoft\Windows\Windows Defender\Cache Maintenance
+0x100186b0 pid=884   region=private FrostCache.tmp
+0x100187e0 pid=640   region=mapped  GetTickCount64
+0x10018910 pid=5100  region=stack   Local\FontCachePort
+0x10018a40 pid=4824  region=heap    Windows-Update-Agent/10.0
+0x10018b70 pid=2204  region=private CreateFileW
+0x10018ca0 pid=1332  region=mapped  C:\Program Files\Google\Chrome\Application\chrome.exe
+0x10018dd0 pid=884   region=stack   https://login.microsoftonline.com/common/oauth2/v2.0/token
+0x10018f00 pid=640   region=heap    frosted-cdn.example
+0x10019030 pid=5100  region=private QueryPerformanceCounter
+0x10019160 pid=4824  region=mapped  Software\Microsoft\Windows\CurrentVersion\Run
+0x10019290 pid=2204  region=stack   pwndora{memory_dump_decoy_not_final}
+0x100193c0 pid=1332  region=heap    ReadFile
+0x100194f0 pid=884   region=private C:\Program Files\Microsoft Office\root\Office16\OUTLOOK.EXE
+0x10019620 pid=640   region=mapped  https://graph.microsoft.com/v1.0/me/messages
+0x10019750 pid=5100  region=stack   win-health-update.example
+0x10019880 pid=4824  region=heap    C:\Windows\System32\svchost.exe
+0x100199b0 pid=2204  region=private Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+0x10019ae0 pid=1332  region=mapped  flag_candidate=pwndora{volatile_false_positive}
+0x10019c10 pid=884   region=stack   WriteFile
+0x10019d40 pid=640   region=heap    Global\CLR_PerfMon_v4.0.30319_32
+0x10019e70 pid=5100  region=private https://settings-win.data.microsoft.com/settings/v3.0
+0x1004c3d0 pid=4824  region=heap    hxxps://api-win-telemetry.example/checkin
+0x10019fa0 pid=4824  region=mapped  api-health-telemetry.example
+0x1001a0d0 pid=2204  region=stack   C:\Windows\System32\RuntimeBroker.exe
+0x1001a200 pid=1332  region=heap    Microsoft\Windows\UpdateOrchestrator\Schedule Scan
+0x1001a330 pid=884   region=private BF-LOCAL-ONLY
+0x1001a460 pid=640   region=mapped  CloseHandle
+0x1001a590 pid=5100  region=stack   Global\SessionEnvReadyEvent
+0x1001a6c0 pid=4824  region=heap    Mozilla/5.0 Chrome/126.0
+0x1001a7f0 pid=2204  region=private CryptUnprotectData
+0x1001a920 pid=1332  region=mapped  C:\Program Files\Microsoft OneDrive\OneDrive.exe
+0x1001aa50 pid=884   region=stack   Microsoft\Windows\Windows Defender\Cache Maintenance
+0x1001ab80 pid=640   region=heap    FrostCache.tmp
+0x1001acb0 pid=5100  region=private GetTickCount64
+0x1001ade0 pid=4824  region=mapped  Local\FontCachePort
+0x1001af10 pid=2204  region=stack   Windows-Update-Agent/10.0
+0x1001b040 pid=1332  region=heap    CreateFileW
+0x1001b170 pid=884   region=private C:\Program Files\Google\Chrome\Application\chrome.exe
+0x1001b2a0 pid=640   region=mapped  https://login.microsoftonline.com/common/oauth2/v2.0/token
+0x1001b3d0 pid=5100  region=stack   frosted-cdn.example
+0x1001b500 pid=4824  region=heap    QueryPerformanceCounter
+0x1001b630 pid=2204  region=private Software\Microsoft\Windows\CurrentVersion\Run
+0x1001b760 pid=1332  region=mapped  pwndora{memory_dump_decoy_not_final}
+0x1001b890 pid=884   region=stack   ReadFile
+0x1001b9c0 pid=640   region=heap    C:\Program Files\Microsoft Office\root\Office16\OUTLOOK.EXE
+0x1001baf0 pid=5100  region=private https://graph.microsoft.com/v1.0/me/messages
+0x1001bc20 pid=4824  region=mapped  win-health-update.example
+0x1001bd50 pid=2204  region=stack   C:\Windows\System32\svchost.exe
+0x1001be80 pid=1332  region=heap    Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+0x1001bfb0 pid=884   region=private flag_candidate=pwndora{volatile_false_positive}
+0x1001c0e0 pid=640   region=mapped  WriteFile
+0x1001c210 pid=5100  region=stack   Global\CLR_PerfMon_v4.0.30319_32
+0x1001c340 pid=4824  region=heap    https://settings-win.data.microsoft.com/settings/v3.0
+0x1001c470 pid=2204  region=private api-health-telemetry.example
+0x1001c5a0 pid=1332  region=mapped  C:\Windows\System32\RuntimeBroker.exe
+0x1001c6d0 pid=884   region=stack   Microsoft\Windows\UpdateOrchestrator\Schedule Scan
+0x1001c800 pid=640   region=heap    BF-LOCAL-ONLY
+0x1001c930 pid=5100  region=private CloseHandle
+0x1001ca60 pid=4824  region=mapped  Global\SessionEnvReadyEvent
+0x1001cb90 pid=2204  region=stack   Mozilla/5.0 Chrome/126.0
+0x1001ccc0 pid=1332  region=heap    CryptUnprotectData
+0x1001cdf0 pid=884   region=private C:\Program Files\Microsoft OneDrive\OneDrive.exe
+0x1001cf20 pid=640   region=mapped  Microsoft\Windows\Windows Defender\Cache Maintenance
+0x1001d050 pid=5100  region=stack   FrostCache.tmp
+0x1001d180 pid=4824  region=heap    GetTickCount64
+0x1001d2b0 pid=2204  region=private Local\FontCachePort
+0x1001d3e0 pid=1332  region=mapped  Windows-Update-Agent/10.0
+0x1004c490 pid=4824  region=heap    hxxps://cdn-frost-sync.example/update
+0x1001d510 pid=884   region=stack   CreateFileW
+0x1001d640 pid=640   region=heap    C:\Program Files\Google\Chrome\Application\chrome.exe
+0x1001d770 pid=5100  region=private https://login.microsoftonline.com/common/oauth2/v2.0/token
+0x1001d8a0 pid=4824  region=mapped  frosted-cdn.example
+0x1001d9d0 pid=2204  region=stack   QueryPerformanceCounter
+0x1001db00 pid=1332  region=heap    Software\Microsoft\Windows\CurrentVersion\Run
+0x1001dc30 pid=884   region=private pwndora{memory_dump_decoy_not_final}
+0x1001dd60 pid=640   region=mapped  ReadFile
+0x1001de90 pid=5100  region=stack   C:\Program Files\Microsoft Office\root\Office16\OUTLOOK.EXE
+0x1001dfc0 pid=4824  region=heap    https://graph.microsoft.com/v1.0/me/messages
+0x1001e0f0 pid=2204  region=private win-health-update.example
+0x1001e220 pid=1332  region=mapped  C:\Windows\System32\svchost.exe
+0x1001e350 pid=884   region=stack   Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+0x1001e480 pid=640   region=heap    flag_candidate=pwndora{volatile_false_positive}
+0x1001e5b0 pid=5100  region=private WriteFile
+0x1001e6e0 pid=4824  region=mapped  Global\CLR_PerfMon_v4.0.30319_32
+0x1001e810 pid=2204  region=stack   https://settings-win.data.microsoft.com/settings/v3.0
+0x1001e940 pid=1332  region=heap    api-health-telemetry.example
+0x1001ea70 pid=884   region=private C:\Windows\System32\RuntimeBroker.exe
+0x1001eba0 pid=640   region=mapped  Microsoft\Windows\UpdateOrchestrator\Schedule Scan
+0x1001ecd0 pid=5100  region=stack   BF-LOCAL-ONLY
+0x1001ee00 pid=4824  region=heap    CloseHandle
+0x1001ef30 pid=2204  region=private Global\SessionEnvReadyEvent
+0x1001f060 pid=1332  region=mapped  Mozilla/5.0 Chrome/126.0
+0x1001f190 pid=884   region=stack   CryptUnprotectData

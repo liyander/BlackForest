@@ -1,0 +1,246 @@
+2026-06-14T08:00:00Z workstation-11 DNS win-health-update.example NXDOMAIN
+2026-06-14T08:01:07Z hr-kiosk-01 DNS crl3.digicert.com A ttl=121
+2026-06-14T08:02:14Z workstation-22 DNS northbridge-energy.example A ttl=122
+2026-06-14T08:03:21Z workstation-07 DNS settings-win.data.microsoft.com A ttl=123
+2026-06-14T08:04:28Z eng-build-02 DNS slack.com A ttl=124
+2026-06-14T08:05:35Z workstation-17 DNS teams.microsoft.com A ttl=125
+2026-06-14T08:06:42Z workstation-03 DNS ocsp.digicert.com A ttl=126
+2026-06-14T08:07:49Z finance-laptop-04 DNS assets.adobedtm.com A ttl=127
+2026-06-14T08:08:56Z workstation-11 DNS ctldl.windowsupdate.com A ttl=128
+2026-06-14T08:09:03Z hr-kiosk-01 DNS objects.githubusercontent.com A ttl=129
+2026-06-14T08:10:10Z workstation-22 DNS graph.microsoft.com A ttl=130
+2026-06-14T08:11:17Z workstation-07 DNS safebrowsing.googleapis.com A ttl=131
+2026-06-14T08:12:24Z eng-build-02 DNS cdn.jsdelivr.net A ttl=132
+2026-06-14T08:13:31Z workstation-17 DNS windowsupdate.microsoft.com A ttl=133
+2026-06-14T08:14:38Z workstation-03 DNS github.com A ttl=134
+2026-06-14T08:15:45Z finance-laptop-04 DNS login.microsoftonline.com A ttl=135
+2026-06-14T08:16:52Z workstation-11 DNS clients4.google.com A ttl=136
+2026-06-14T08:17:59Z hr-kiosk-01 DNS telemetry-cache.example NXDOMAIN
+2026-06-14T08:18:06Z workstation-22 DNS officecdn.microsoft.com A ttl=138
+2026-06-14T08:19:13Z workstation-07 TLS SNI crl3.digicert.com allowed ja3=72a589da586844d7f0818ce684948eea
+2026-06-14T08:20:20Z eng-build-02 DNS northbridge-energy.example A ttl=140
+2026-06-14T08:21:27Z workstation-17 DNS settings-win.data.microsoft.com A ttl=141
+2026-06-14T08:22:34Z workstation-03 DNS slack.com A ttl=142
+2026-06-14T08:23:41Z finance-laptop-04 HTTP GET hxxps://teams.microsoft.com/status/204 UA "Mozilla/5.0 Chrome/126.0" status=204 bytes=0
+2026-06-14T08:24:48Z workstation-11 DNS ocsp.digicert.com A ttl=144
+2026-06-14T08:25:55Z hr-kiosk-01 DNS assets.adobedtm.com A ttl=145
+2026-06-14T08:26:02Z workstation-22 DNS ctldl.windowsupdate.com A ttl=146
+2026-06-14T08:27:09Z workstation-07 DNS objects.githubusercontent.com A ttl=147
+2026-06-14T08:28:16Z eng-build-02 DNS graph.microsoft.com A ttl=148
+2026-06-14T08:29:23Z workstation-17 DNS safebrowsing.googleapis.com A ttl=149
+2026-06-14T08:30:30Z workstation-03 DNS cdn.jsdelivr.net A ttl=150
+2026-06-14T08:31:37Z finance-laptop-04 DNS windowsupdate.microsoft.com A ttl=151
+2026-06-14T08:32:44Z workstation-11 DNS github.com A ttl=152
+2026-06-14T08:33:51Z hr-kiosk-01 DNS login.microsoftonline.com A ttl=153
+2026-06-14T08:34:58Z workstation-22 DNS driver-checkin.example NXDOMAIN
+2026-06-14T08:35:05Z workstation-07 DNS zoom.us A ttl=155
+2026-06-14T08:36:12Z eng-build-02 DNS officecdn.microsoft.com A ttl=156
+2026-06-14T08:37:19Z workstation-17 DNS crl3.digicert.com A ttl=157
+2026-06-14T08:38:26Z workstation-03 TLS SNI northbridge-energy.example allowed ja3=72a589da586844d7f0818ce684948eea
+2026-06-14T08:39:33Z finance-laptop-04 DNS settings-win.data.microsoft.com A ttl=159
+2026-06-14T08:40:40Z workstation-11 DNS slack.com A ttl=160
+2026-06-14T08:41:47Z hr-kiosk-01 DNS teams.microsoft.com A ttl=161
+2026-06-14T08:42:54Z workstation-22 DNS ocsp.digicert.com A ttl=162
+2026-06-14T08:43:01Z workstation-07 DNS assets.adobedtm.com A ttl=163
+2026-06-14T08:44:08Z eng-build-02 DNS ctldl.windowsupdate.com A ttl=164
+2026-06-14T08:45:15Z workstation-17 DNS objects.githubusercontent.com A ttl=165
+2026-06-14T08:46:22Z workstation-03 HTTP GET hxxps://graph.microsoft.com/status/204 UA "Microsoft Office/16.0" status=204 bytes=0
+2026-06-14T08:47:29Z finance-laptop-04 DNS safebrowsing.googleapis.com A ttl=167
+2026-06-14T08:48:36Z workstation-11 DNS cdn.jsdelivr.net A ttl=168
+2026-06-14T08:49:43Z hr-kiosk-01 DNS windowsupdate.microsoft.com A ttl=169
+2026-06-14T08:50:50Z workstation-22 DNS github.com A ttl=120
+2026-06-14T08:51:57Z workstation-07 DNS frosted-cdn.example NXDOMAIN
+2026-06-14T08:52:04Z eng-build-02 DNS clients4.google.com A ttl=122
+2026-06-14T08:53:11Z workstation-17 DNS zoom.us A ttl=123
+2026-06-14T08:54:18Z workstation-03 DNS officecdn.microsoft.com A ttl=124
+2026-06-14T08:55:25Z finance-laptop-04 DNS crl3.digicert.com A ttl=125
+2026-06-14T08:56:32Z workstation-11 DNS northbridge-energy.example A ttl=126
+2026-06-14T08:57:39Z hr-kiosk-01 TLS SNI settings-win.data.microsoft.com allowed ja3=72a589da586844d7f0818ce684948eea
+2026-06-14T08:58:46Z workstation-22 DNS slack.com A ttl=128
+2026-06-14T08:59:53Z workstation-07 DNS teams.microsoft.com A ttl=129
+2026-06-14T09:00:00Z eng-build-02 DNS ocsp.digicert.com A ttl=130
+2026-06-14T09:01:07Z workstation-17 DNS assets.adobedtm.com A ttl=131
+2026-06-14T09:02:14Z workstation-03 DNS ctldl.windowsupdate.com A ttl=132
+2026-06-14T09:03:21Z finance-laptop-04 DNS objects.githubusercontent.com A ttl=133
+2026-06-14T09:04:28Z workstation-11 DNS graph.microsoft.com A ttl=134
+2026-06-14T09:05:35Z hr-kiosk-01 DNS safebrowsing.googleapis.com A ttl=135
+2026-06-14T09:06:42Z workstation-22 DNS cdn.jsdelivr.net A ttl=136
+2026-06-14T09:07:49Z workstation-07 DNS windowsupdate.microsoft.com A ttl=137
+2026-06-14T09:08:56Z eng-build-02 DNS bf-update-mirror.example NXDOMAIN
+2026-06-14T09:09:03Z workstation-17 HTTP GET hxxps://login.microsoftonline.com/status/204 UA "OneDriveSync/24.096" status=204 bytes=0
+2026-06-14T09:10:10Z workstation-03 DNS clients4.google.com A ttl=140
+2026-06-14T09:11:17Z finance-laptop-04 DNS zoom.us A ttl=141
+2026-06-14T09:12:24Z workstation-11 DNS officecdn.microsoft.com A ttl=142
+2026-06-14T09:12:41Z workstation-17 DNS cdn-frost-sync.example NXDOMAIN process=BlackFrost_Update.exe pid=4824
+2026-06-14T09:13:31Z hr-kiosk-01 DNS crl3.digicert.com A ttl=143
+2026-06-14T09:14:38Z workstation-22 DNS northbridge-energy.example A ttl=144
+2026-06-14T09:15:45Z workstation-07 DNS settings-win.data.microsoft.com A ttl=145
+2026-06-14T09:16:52Z eng-build-02 TLS SNI slack.com allowed ja3=72a589da586844d7f0818ce684948eea
+2026-06-14T09:17:59Z workstation-17 DNS teams.microsoft.com A ttl=147
+2026-06-14T09:18:06Z workstation-03 DNS ocsp.digicert.com A ttl=148
+2026-06-14T09:19:13Z finance-laptop-04 DNS assets.adobedtm.com A ttl=149
+2026-06-14T09:20:20Z workstation-11 DNS ctldl.windowsupdate.com A ttl=150
+2026-06-14T09:21:27Z hr-kiosk-01 DNS objects.githubusercontent.com A ttl=151
+2026-06-14T09:22:34Z workstation-22 DNS graph.microsoft.com A ttl=152
+2026-06-14T09:23:41Z workstation-07 DNS safebrowsing.googleapis.com A ttl=153
+2026-06-14T09:24:48Z eng-build-02 DNS cdn.jsdelivr.net A ttl=154
+2026-06-14T09:25:55Z workstation-17 DNS northbridge-cdn.example NXDOMAIN
+2026-06-14T09:26:02Z workstation-03 DNS github.com A ttl=156
+2026-06-14T09:27:09Z finance-laptop-04 DNS login.microsoftonline.com A ttl=157
+2026-06-14T09:28:16Z workstation-11 DNS clients4.google.com A ttl=158
+2026-06-14T09:29:23Z hr-kiosk-01 DNS zoom.us A ttl=159
+2026-06-14T09:30:30Z workstation-22 DNS officecdn.microsoft.com A ttl=160
+2026-06-14T09:31:37Z workstation-07 DNS crl3.digicert.com A ttl=161
+2026-06-14T09:32:44Z eng-build-02 HTTP GET hxxps://northbridge-energy.example/status/204 UA "Teams/24231.512.3010" status=204 bytes=0
+2026-06-14T09:33:51Z workstation-17 DNS settings-win.data.microsoft.com A ttl=163
+2026-06-14T09:34:58Z workstation-03 DNS slack.com A ttl=164
+2026-06-14T09:12:42Z workstation-17 TLS SNI api-win-telemetry.example blocked ja3=6734f37431670b3ab4292b8f60f29984
+2026-06-14T09:35:05Z finance-laptop-04 TLS SNI teams.microsoft.com allowed ja3=72a589da586844d7f0818ce684948eea
+2026-06-14T09:36:12Z workstation-11 DNS ocsp.digicert.com A ttl=166
+2026-06-14T09:37:19Z hr-kiosk-01 DNS assets.adobedtm.com A ttl=167
+2026-06-14T09:38:26Z workstation-22 DNS ctldl.windowsupdate.com A ttl=168
+2026-06-14T09:39:33Z workstation-07 DNS objects.githubusercontent.com A ttl=169
+2026-06-14T09:40:40Z eng-build-02 DNS graph.microsoft.com A ttl=120
+2026-06-14T09:41:47Z workstation-17 DNS safebrowsing.googleapis.com A ttl=121
+2026-06-14T09:42:54Z workstation-03 DNS win-health-update.example NXDOMAIN
+2026-06-14T09:43:01Z finance-laptop-04 DNS windowsupdate.microsoft.com A ttl=123
+2026-06-14T09:44:08Z workstation-11 DNS github.com A ttl=124
+2026-06-14T09:45:15Z hr-kiosk-01 DNS login.microsoftonline.com A ttl=125
+2026-06-14T09:46:22Z workstation-22 DNS clients4.google.com A ttl=126
+2026-06-14T09:47:29Z workstation-07 DNS zoom.us A ttl=127
+2026-06-14T09:48:36Z eng-build-02 DNS officecdn.microsoft.com A ttl=128
+2026-06-14T09:49:43Z workstation-17 DNS crl3.digicert.com A ttl=129
+2026-06-14T09:50:50Z workstation-03 DNS northbridge-energy.example A ttl=130
+2026-06-14T09:51:57Z finance-laptop-04 DNS settings-win.data.microsoft.com A ttl=131
+2026-06-14T09:52:04Z workstation-11 DNS slack.com A ttl=132
+2026-06-14T09:53:11Z hr-kiosk-01 DNS teams.microsoft.com A ttl=133
+2026-06-14T09:54:18Z workstation-22 TLS SNI ocsp.digicert.com allowed ja3=72a589da586844d7f0818ce684948eea
+2026-06-14T09:13:03Z workstation-17 HTTP POST hxxps://api-win-telemetry.example/checkin UA "Mozilla/5.0 BFrostUpdater/4.7" status=blocked bytes_out=512
+2026-06-14T09:55:25Z workstation-07 HTTP GET hxxps://assets.adobedtm.com/status/204 UA "Microsoft-CryptoAPI/10.0" status=204 bytes=0
+2026-06-14T09:56:32Z eng-build-02 DNS ctldl.windowsupdate.com A ttl=136
+2026-06-14T09:57:39Z workstation-17 DNS objects.githubusercontent.com A ttl=137
+2026-06-14T09:58:46Z workstation-03 DNS graph.microsoft.com A ttl=138
+2026-06-14T09:59:53Z finance-laptop-04 DNS telemetry-cache.example NXDOMAIN
+2026-06-14T10:00:00Z workstation-11 DNS cdn.jsdelivr.net A ttl=140
+2026-06-14T10:01:07Z hr-kiosk-01 DNS windowsupdate.microsoft.com A ttl=141
+2026-06-14T10:02:14Z workstation-22 DNS github.com A ttl=142
+2026-06-14T10:03:21Z workstation-07 DNS login.microsoftonline.com A ttl=143
+2026-06-14T10:04:28Z eng-build-02 DNS clients4.google.com A ttl=144
+2026-06-14T10:05:35Z workstation-17 DNS zoom.us A ttl=145
+2026-06-14T10:06:42Z workstation-03 DNS officecdn.microsoft.com A ttl=146
+2026-06-14T10:07:49Z finance-laptop-04 DNS crl3.digicert.com A ttl=147
+2026-06-14T10:08:56Z workstation-11 DNS northbridge-energy.example A ttl=148
+2026-06-14T10:09:03Z hr-kiosk-01 DNS settings-win.data.microsoft.com A ttl=149
+2026-06-14T10:10:10Z workstation-22 DNS slack.com A ttl=150
+2026-06-14T10:11:17Z workstation-07 DNS teams.microsoft.com A ttl=151
+2026-06-14T10:12:24Z eng-build-02 DNS ocsp.digicert.com A ttl=152
+2026-06-14T10:13:31Z workstation-17 TLS SNI assets.adobedtm.com allowed ja3=72a589da586844d7f0818ce684948eea
+2026-06-14T10:14:38Z workstation-03 DNS ctldl.windowsupdate.com A ttl=154
+2026-06-14T09:13:08Z workstation-17 HTTP GET hxxps://cdn-frost-sync.example/update UA "Mozilla/5.0 BFrostUpdater/4.7" status=blocked bytes_in=0
+2026-06-14T10:15:45Z finance-laptop-04 DNS objects.githubusercontent.com A ttl=155
+2026-06-14T10:16:52Z workstation-11 DNS driver-checkin.example NXDOMAIN
+2026-06-14T10:17:59Z hr-kiosk-01 DNS safebrowsing.googleapis.com A ttl=157
+2026-06-14T10:18:06Z workstation-22 HTTP GET hxxps://cdn.jsdelivr.net/status/204 UA "Windows-Update-Agent/10.0" status=204 bytes=0
+2026-06-14T10:19:13Z workstation-07 DNS windowsupdate.microsoft.com A ttl=159
+2026-06-14T10:20:20Z eng-build-02 DNS github.com A ttl=160
+2026-06-14T10:21:27Z workstation-17 DNS login.microsoftonline.com A ttl=161
+2026-06-14T10:22:34Z workstation-03 DNS clients4.google.com A ttl=162
+2026-06-14T10:23:41Z finance-laptop-04 DNS zoom.us A ttl=163
+2026-06-14T10:24:48Z workstation-11 DNS officecdn.microsoft.com A ttl=164
+2026-06-14T10:25:55Z hr-kiosk-01 DNS crl3.digicert.com A ttl=165
+2026-06-14T10:26:02Z workstation-22 DNS northbridge-energy.example A ttl=166
+2026-06-14T10:27:09Z workstation-07 DNS settings-win.data.microsoft.com A ttl=167
+2026-06-14T10:28:16Z eng-build-02 DNS slack.com A ttl=168
+2026-06-14T10:29:23Z workstation-17 DNS teams.microsoft.com A ttl=169
+2026-06-14T10:30:30Z workstation-03 DNS ocsp.digicert.com A ttl=120
+2026-06-14T10:31:37Z finance-laptop-04 DNS assets.adobedtm.com A ttl=121
+2026-06-14T10:32:44Z workstation-11 TLS SNI ctldl.windowsupdate.com allowed ja3=72a589da586844d7f0818ce684948eea
+2026-06-14T10:33:51Z hr-kiosk-01 DNS frosted-cdn.example NXDOMAIN
+2026-06-14T10:34:58Z workstation-22 DNS graph.microsoft.com A ttl=124
+2026-06-14T10:35:05Z workstation-07 DNS safebrowsing.googleapis.com A ttl=125
+2026-06-14T10:36:12Z eng-build-02 DNS cdn.jsdelivr.net A ttl=126
+2026-06-14T10:37:19Z workstation-17 DNS windowsupdate.microsoft.com A ttl=127
+2026-06-14T10:38:26Z workstation-03 DNS github.com A ttl=128
+2026-06-14T10:39:33Z finance-laptop-04 DNS login.microsoftonline.com A ttl=129
+2026-06-14T10:40:40Z workstation-11 DNS clients4.google.com A ttl=130
+2026-06-14T10:41:47Z hr-kiosk-01 HTTP GET hxxps://zoom.us/status/204 UA "Mozilla/5.0 Chrome/126.0" status=204 bytes=0
+2026-06-14T10:42:54Z workstation-22 DNS officecdn.microsoft.com A ttl=132
+2026-06-14T10:43:01Z workstation-07 DNS crl3.digicert.com A ttl=133
+2026-06-14T10:44:08Z eng-build-02 DNS northbridge-energy.example A ttl=134
+2026-06-14T09:14:11Z workstation-17 DNS cdn-frost-sync.example NXDOMAIN process=svchost.exe note=parent_name_mismatch
+2026-06-14T10:45:15Z workstation-17 DNS settings-win.data.microsoft.com A ttl=135
+2026-06-14T10:46:22Z workstation-03 DNS slack.com A ttl=136
+2026-06-14T10:47:29Z finance-laptop-04 DNS teams.microsoft.com A ttl=137
+2026-06-14T10:48:36Z workstation-11 DNS ocsp.digicert.com A ttl=138
+2026-06-14T10:49:43Z hr-kiosk-01 DNS assets.adobedtm.com A ttl=139
+2026-06-14T10:50:50Z workstation-22 DNS bf-update-mirror.example NXDOMAIN
+2026-06-14T10:51:57Z workstation-07 TLS SNI objects.githubusercontent.com allowed ja3=72a589da586844d7f0818ce684948eea
+2026-06-14T10:52:04Z eng-build-02 DNS graph.microsoft.com A ttl=142
+2026-06-14T10:53:11Z workstation-17 DNS safebrowsing.googleapis.com A ttl=143
+2026-06-14T10:54:18Z workstation-03 DNS cdn.jsdelivr.net A ttl=144
+2026-06-14T10:55:25Z finance-laptop-04 DNS windowsupdate.microsoft.com A ttl=145
+2026-06-14T10:56:32Z workstation-11 DNS github.com A ttl=146
+2026-06-14T10:57:39Z hr-kiosk-01 DNS login.microsoftonline.com A ttl=147
+2026-06-14T10:58:46Z workstation-22 DNS clients4.google.com A ttl=148
+2026-06-14T10:59:53Z workstation-07 DNS zoom.us A ttl=149
+2026-06-14T11:00:00Z eng-build-02 DNS officecdn.microsoft.com A ttl=150
+2026-06-14T11:01:07Z workstation-17 DNS crl3.digicert.com A ttl=151
+2026-06-14T11:02:14Z workstation-03 DNS northbridge-energy.example A ttl=152
+2026-06-14T11:03:21Z finance-laptop-04 DNS settings-win.data.microsoft.com A ttl=153
+2026-06-14T11:04:28Z workstation-11 HTTP GET hxxps://slack.com/status/204 UA "Microsoft Office/16.0" status=204 bytes=0
+2026-06-14T11:05:35Z hr-kiosk-01 DNS teams.microsoft.com A ttl=155
+2026-06-14T11:06:42Z workstation-22 DNS ocsp.digicert.com A ttl=156
+2026-06-14T11:07:49Z workstation-07 DNS northbridge-cdn.example NXDOMAIN
+2026-06-14T11:08:56Z eng-build-02 DNS ctldl.windowsupdate.com A ttl=158
+2026-06-14T11:09:03Z workstation-17 DNS objects.githubusercontent.com A ttl=159
+2026-06-14T11:10:10Z workstation-03 TLS SNI graph.microsoft.com allowed ja3=72a589da586844d7f0818ce684948eea
+2026-06-14T11:11:17Z finance-laptop-04 DNS safebrowsing.googleapis.com A ttl=161
+2026-06-14T11:12:24Z workstation-11 DNS cdn.jsdelivr.net A ttl=162
+2026-06-14T11:13:31Z hr-kiosk-01 DNS windowsupdate.microsoft.com A ttl=163
+2026-06-14T11:14:38Z workstation-22 DNS github.com A ttl=164
+2026-06-14T11:15:45Z workstation-07 DNS login.microsoftonline.com A ttl=165
+2026-06-14T11:16:52Z eng-build-02 DNS clients4.google.com A ttl=166
+2026-06-14T11:17:59Z workstation-17 DNS zoom.us A ttl=167
+2026-06-14T11:18:06Z workstation-03 DNS officecdn.microsoft.com A ttl=168
+2026-06-14T11:19:13Z finance-laptop-04 DNS crl3.digicert.com A ttl=169
+2026-06-14T11:20:20Z workstation-11 DNS northbridge-energy.example A ttl=120
+2026-06-14T11:21:27Z hr-kiosk-01 DNS settings-win.data.microsoft.com A ttl=121
+2026-06-14T11:22:34Z workstation-22 DNS slack.com A ttl=122
+2026-06-14T11:23:41Z workstation-07 DNS teams.microsoft.com A ttl=123
+2026-06-14T11:24:48Z eng-build-02 DNS win-health-update.example NXDOMAIN
+2026-06-14T11:25:55Z workstation-17 DNS assets.adobedtm.com A ttl=125
+2026-06-14T09:16:29Z workstation-17 EDR netblock category=malware-sim domain=api-win-telemetry.example sample=BlackFrost_Update.exe
+2026-06-14T11:26:02Z workstation-03 DNS ctldl.windowsupdate.com A ttl=126
+2026-06-14T11:27:09Z finance-laptop-04 HTTP GET hxxps://objects.githubusercontent.com/status/204 UA "OneDriveSync/24.096" status=204 bytes=0
+2026-06-14T11:28:16Z workstation-11 DNS graph.microsoft.com A ttl=128
+2026-06-14T11:29:23Z hr-kiosk-01 TLS SNI safebrowsing.googleapis.com allowed ja3=72a589da586844d7f0818ce684948eea
+2026-06-14T11:30:30Z workstation-22 DNS cdn.jsdelivr.net A ttl=130
+2026-06-14T11:31:37Z workstation-07 DNS windowsupdate.microsoft.com A ttl=131
+2026-06-14T11:32:44Z eng-build-02 DNS github.com A ttl=132
+2026-06-14T11:33:51Z workstation-17 DNS login.microsoftonline.com A ttl=133
+2026-06-14T11:34:58Z workstation-03 DNS clients4.google.com A ttl=134
+2026-06-14T11:35:05Z finance-laptop-04 DNS zoom.us A ttl=135
+2026-06-14T11:36:12Z workstation-11 DNS officecdn.microsoft.com A ttl=136
+2026-06-14T11:37:19Z hr-kiosk-01 DNS crl3.digicert.com A ttl=137
+2026-06-14T11:38:26Z workstation-22 DNS northbridge-energy.example A ttl=138
+2026-06-14T11:39:33Z workstation-07 DNS settings-win.data.microsoft.com A ttl=139
+2026-06-14T11:40:40Z eng-build-02 DNS slack.com A ttl=140
+2026-06-14T11:41:47Z workstation-17 DNS telemetry-cache.example NXDOMAIN
+2026-06-14T11:42:54Z workstation-03 DNS ocsp.digicert.com A ttl=142
+2026-06-14T11:43:01Z finance-laptop-04 DNS assets.adobedtm.com A ttl=143
+2026-06-14T11:44:08Z workstation-11 DNS ctldl.windowsupdate.com A ttl=144
+2026-06-14T11:45:15Z hr-kiosk-01 DNS objects.githubusercontent.com A ttl=145
+2026-06-14T11:46:22Z workstation-22 DNS graph.microsoft.com A ttl=146
+2026-06-14T11:47:29Z workstation-07 DNS safebrowsing.googleapis.com A ttl=147
+2026-06-14T11:48:36Z eng-build-02 TLS SNI cdn.jsdelivr.net allowed ja3=72a589da586844d7f0818ce684948eea
+2026-06-14T11:49:43Z workstation-17 DNS windowsupdate.microsoft.com A ttl=149
+2026-06-14T11:50:50Z workstation-03 HTTP GET hxxps://github.com/status/204 UA "Teams/24231.512.3010" status=204 bytes=0
+2026-06-14T11:51:57Z finance-laptop-04 DNS login.microsoftonline.com A ttl=151
+2026-06-14T11:52:04Z workstation-11 DNS clients4.google.com A ttl=152
+2026-06-14T11:53:11Z hr-kiosk-01 DNS zoom.us A ttl=153
+2026-06-14T11:54:18Z workstation-22 DNS officecdn.microsoft.com A ttl=154
+2026-06-14T11:55:25Z workstation-07 DNS crl3.digicert.com A ttl=155
+2026-06-14T11:56:32Z eng-build-02 DNS northbridge-energy.example A ttl=156
+2026-06-14T11:57:39Z workstation-17 DNS settings-win.data.microsoft.com A ttl=157
+2026-06-14T11:58:46Z workstation-03 DNS driver-checkin.example NXDOMAIN
+2026-06-14T11:59:53Z finance-laptop-04 DNS teams.microsoft.com A ttl=159
